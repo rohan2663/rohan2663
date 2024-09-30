@@ -14,24 +14,6 @@ Web Development – Crafting user-friendly web applications and experiences.
 Full-Stack Development – End-to-end development using MERN stack (MongoDB, Express, React, Node).
 
 
-## 💼 Projects:
-
-I've built numerous projects, including:
-
-ToDo App (HTML, CSS, JavaScript, LocalStorage) – A simple task manager to track daily goals.
-
-ToDo App (React, LocalStorage) – A more advanced version of the task manager using React.
-
-Many more! Check out my GitHub to see the rest of my projects!
-
-
 ## 📫 Let's Connect:
 
 - **Email**: [rohankumar2663@gmail.com](mailto:rohankumar2663@gmail.com)
-
-
-## ⚡ Fun Fact:
-
-I’m always up for learning new tech and figuring out how things work! When I’m not coding, you’ll find me exploring the latest tech trends or playing video games.
-
-Feel free to explore my profile and reach out if you’d like to collaborate! 🚀
