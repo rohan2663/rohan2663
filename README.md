@@ -27,8 +27,6 @@ Many more! Check out my GitHub to see the rest of my projects!
 
 ## 📫 Let's Connect:
 
-- **GitHub**: [rohan2663](https://github.com/rohan2663)
-- **LinkedIn**: [Rohan Kumar](https://www.linkedin.com/in/rohankumar2663)
 - **Email**: [rohankumar2663@gmail.com](mailto:rohankumar2663@gmail.com)
 
 
