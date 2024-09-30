@@ -1,13 +1,12 @@
-👋 Hey there, I'm Rohan Kumar!
+# 👋 Hey there, I'm Rohan Kumar!
 
-
-🌐 Computer Science Engineer | Full-Stack Web Developer
+## 🌐 Computer Science Engineer | Full-Stack Web Developer
 
 
 I'm a passionate Computer Science Engineer from Chitkara University, with a deep interest in Web Development. My tech stack includes HTML, CSS, JavaScript, MongoDB, Express, React, Node (MERN) as well as C++ and Java. I'm constantly exploring new technologies to sharpen my skills and build amazing things!
 
 
-👀 What I’m Interested In:
+## 👀 What I’m Interested In:
 
 
 Web Development – Crafting user-friendly web applications and experiences.
@@ -15,7 +14,7 @@ Web Development – Crafting user-friendly web applications and experiences.
 Full-Stack Development – End-to-end development using MERN stack (MongoDB, Express, React, Node).
 
 
-💼 Projects:
+## 💼 Projects:
 
 I've built numerous projects, including:
 
@@ -26,14 +25,14 @@ ToDo App (React, LocalStorage) – A more advanced version of the task manager u
 Many more! Check out my GitHub to see the rest of my projects!
 
 
-📫 Let's Connect:
+## 📫 Let's Connect:
 
 - **GitHub**: [rohan2663](https://github.com/rohan2663)
 - **LinkedIn**: [Rohan Kumar](https://www.linkedin.com/in/rohankumar2663)
 - **Email**: [rohankumar2663@gmail.com](mailto:rohankumar2663@gmail.com)
 
 
-⚡ Fun Fact:
+## ⚡ Fun Fact:
 
 I’m always up for learning new tech and figuring out how things work! When I’m not coding, you’ll find me exploring the latest tech trends or playing video games.
 
