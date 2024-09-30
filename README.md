@@ -26,20 +26,11 @@ ToDo App (React, LocalStorage) – A more advanced version of the task manager u
 Many more! Check out my GitHub to see the rest of my projects!
 
 
-💞️ Collaboration:
-
-I'm always open to collaborating on:
-
-Full-stack Web Projects – Building exciting and meaningful apps.
-
-
 📫 Let's Connect:
 
-GitHub: rohan2663
-
-LinkedIn: Rohan Kumar
-
-Email: rohankumar2663@gmail.com
+- **GitHub**: [rohan2663](https://github.com/rohan2663)
+- **LinkedIn**: [Rohan Kumar](https://www.linkedin.com/in/rohankumar2663)
+- **Email**: [rohankumar2663@gmail.com](mailto:rohankumar2663@gmail.com)
 
 
 ⚡ Fun Fact:
